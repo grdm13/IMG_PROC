@@ -23,3 +23,5 @@ fps = 0
 fps = int(frames / duration_sec)
 print(f'The FPS of the video is:', fps)
 
+#reading and showing the first frame
+
