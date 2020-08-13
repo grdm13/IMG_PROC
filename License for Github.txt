@@ -1,0 +1,3 @@
+All the algorithms inside this repository are founded by the University of Illinois at Chicago.
+They are product of George Damoulakis and Constantine Megaridis.
+Before using them please contact: gdamou2@uic.edu
